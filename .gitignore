@@ -1,0 +1,14 @@
+# pycharm
+.idea
+
+# npm
+node_modules
+
+# python
+__pycache__
+
+# static
+blog/static/*
+
+# zappa
+zappa_settings.json
